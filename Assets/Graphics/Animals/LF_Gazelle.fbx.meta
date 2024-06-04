@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 041832ae4c42a2a4f8a9885884649964
+timeCreated: 1472032676
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Gazelle_HP
+    100002: Gazelle_LP
+    100004: Gazelle_SLP
+    100006: Horse_Head_JawEndSHJnt
+    100008: Horse_Head_JawSHJnt
+    100010: Horse_Head_TopSHJnt
+    100012: Horse_l_Clavicle_01_01SHJnt
+    100014: Horse_l_Ear_01SHJnt
+    100016: Horse_l_Eye_01SHJnt
+    100018: Horse_l_FrontLeg_AnkleSHJnt
+    100020: Horse_l_FrontLeg_BallSHJnt
+    100022: Horse_l_FrontLeg_HipSHJnt
+    100024: Horse_l_FrontLeg_KneeSHJnt
+    100026: Horse_l_FrontLeg_ToeSHJnt
+    100028: Horse_l_HindLeg_AnkleSHJnt
+    100030: Horse_l_HindLeg_BallSHJnt
+    100032: Horse_l_HindLeg_HipSHJnt
+    100034: Horse_l_HindLeg_Knee1SHJnt
+    100036: Horse_l_HindLeg_Knee2SHJnt
+    100038: Horse_Neck_01SHJnt
+    100040: Horse_Neck_02SHJnt
+    100042: Horse_Neck_TopSHJnt
+    100044: Horse_r_Clavicle_01_01SHJnt
+    100046: Horse_r_Ear_01SHJnt
+    100048: Horse_r_Eye_01SHJnt
+    100050: Horse_r_FrontLeg_AnkleSHJnt
+    100052: Horse_r_FrontLeg_BallSHJnt
+    100054: Horse_r_FrontLeg_HipSHJnt
+    100056: Horse_r_FrontLeg_KneeSHJnt
+    100058: Horse_r_FrontLeg_ToeSHJnt
+    100060: Horse_r_HindLeg_AnkleSHJnt
+    100062: Horse_r_HindLeg_BallSHJnt
+    100064: Horse_r_HindLeg_HipSHJnt
+    100066: Horse_r_HindLeg_Knee1SHJnt
+    100068: Horse_r_HindLeg_Knee2SHJnt
+    100070: Horse_ROOTSHJnt
+    100072: Horse_Spine_01SHJnt
+    100074: Horse_Spine_02SHJnt
+    100076: Horse_Spine_03SHJnt
+    100078: Horse_Spine_TopSHJnt
+    100080: Horse_Tasl_01_01SHJnt
+    100082: Horse_Tasl_01_02SHJnt
+    100084: Horse_Tasl_01_03SHJnt
+    100086: Horse_Tasl_01_04SHJnt
+    100088: Horse_Tasl_01_05SHJnt
+    100090: //RootNode
+    100092: RootMOOtion
+    400000: Gazelle_HP
+    400002: Gazelle_LP
+    400004: Gazelle_SLP
+    400006: Horse_Head_JawEndSHJnt
+    400008: Horse_Head_JawSHJnt
+    400010: Horse_Head_TopSHJnt
+    400012: Horse_l_Clavicle_01_01SHJnt
+    400014: Horse_l_Ear_01SHJnt
+    400016: Horse_l_Eye_01SHJnt
+    400018: Horse_l_FrontLeg_AnkleSHJnt
+    400020: Horse_l_FrontLeg_BallSHJnt
+    400022: Horse_l_FrontLeg_HipSHJnt
+    400024: Horse_l_FrontLeg_KneeSHJnt
+    400026: Horse_l_FrontLeg_ToeSHJnt
+    400028: Horse_l_HindLeg_AnkleSHJnt
+    400030: Horse_l_HindLeg_BallSHJnt
+    400032: Horse_l_HindLeg_HipSHJnt
+    400034: Horse_l_HindLeg_Knee1SHJnt
+    400036: Horse_l_HindLeg_Knee2SHJnt
+    400038: Horse_Neck_01SHJnt
+    400040: Horse_Neck_02SHJnt
+    400042: Horse_Neck_TopSHJnt
+    400044: Horse_r_Clavicle_01_01SHJnt
+    400046: Horse_r_Ear_01SHJnt
+    400048: Horse_r_Eye_01SHJnt
+    400050: Horse_r_FrontLeg_AnkleSHJnt
+    400052: Horse_r_FrontLeg_BallSHJnt
+    400054: Horse_r_FrontLeg_HipSHJnt
+    400056: Horse_r_FrontLeg_KneeSHJnt
+    400058: Horse_r_FrontLeg_ToeSHJnt
+    400060: Horse_r_HindLeg_AnkleSHJnt
+    400062: Horse_r_HindLeg_BallSHJnt
+    400064: Horse_r_HindLeg_HipSHJnt
+    400066: Horse_r_HindLeg_Knee1SHJnt
+    400068: Horse_r_HindLeg_Knee2SHJnt
+    400070: Horse_ROOTSHJnt
+    400072: Horse_Spine_01SHJnt
+    400074: Horse_Spine_02SHJnt
+    400076: Horse_Spine_03SHJnt
+    400078: Horse_Spine_TopSHJnt
+    400080: Horse_Tasl_01_01SHJnt
+    400082: Horse_Tasl_01_02SHJnt
+    400084: Horse_Tasl_01_03SHJnt
+    400086: Horse_Tasl_01_04SHJnt
+    400088: Horse_Tasl_01_05SHJnt
+    400090: //RootNode
+    400092: RootMOOtion
+    4300000: Gazelle_LP
+    4300002: Gazelle_SLP
+    4300004: Gazelle_HP
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Gazelle_HP
+    13700002: Gazelle_LP
+    13700004: Gazelle_SLP
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

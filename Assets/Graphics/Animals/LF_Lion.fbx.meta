@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: d24ca84bb38200d40bb72111989a4d9d
+timeCreated: 1472032677
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Lion_Head_JawSHJnt
+    100004: Lion_Head_TopSHJnt
+    100006: Lion_HP
+    100008: Lion_l_Clavicle_01_01SHJnt
+    100010: Lion_l_FrontLeg_AnkleSHJnt
+    100012: Lion_l_FrontLeg_BallSHJnt
+    100014: Lion_l_FrontLeg_HipSHJnt
+    100016: Lion_l_FrontLeg_KneeSHJnt
+    100018: Lion_l_HindLeg_AnkleSHJnt
+    100020: Lion_l_HindLeg_BallSHJnt
+    100022: Lion_l_HindLeg_HipSHJnt
+    100024: Lion_l_HindLeg_Knee1SHJnt
+    100026: Lion_l_HindLeg_Knee2SHJnt
+    100028: Lion_LP
+    100030: Lion_Neck_01SHJnt
+    100032: Lion_Neck_02SHJnt
+    100034: Lion_Neck_TopSHJnt
+    100036: Lion_r_Clavicle_01_01SHJnt
+    100038: Lion_r_FrontLeg_AnkleSHJnt
+    100040: Lion_r_FrontLeg_BallSHJnt
+    100042: Lion_r_FrontLeg_HipSHJnt
+    100044: Lion_r_FrontLeg_KneeSHJnt
+    100046: Lion_r_HindLeg_AnkleSHJnt
+    100048: Lion_r_HindLeg_BallSHJnt
+    100050: Lion_r_HindLeg_HipSHJnt
+    100052: Lion_r_HindLeg_Knee1SHJnt
+    100054: Lion_r_HindLeg_Knee2SHJnt
+    100056: Lion_ROOTSHJnt
+    100058: Lion_SLP
+    100060: Lion_Spine_01SHJnt
+    100062: Lion_Spine_02SHJnt
+    100064: Lion_Spine_03SHJnt
+    100066: Lion_Spine_04SHJnt
+    100068: Lion_Spine_TopSHJnt
+    100070: Lion_Tail_01_01SHJnt
+    100072: Lion_Tail_01_02SHJnt
+    100074: Lion_Tail_01_03SHJnt
+    100076: Lion_Tail_01_04SHJnt
+    100078: Lion_Tail_01_05SHJnt
+    100080: RootMotion
+    400000: //RootNode
+    400002: Lion_Head_JawSHJnt
+    400004: Lion_Head_TopSHJnt
+    400006: Lion_HP
+    400008: Lion_l_Clavicle_01_01SHJnt
+    400010: Lion_l_FrontLeg_AnkleSHJnt
+    400012: Lion_l_FrontLeg_BallSHJnt
+    400014: Lion_l_FrontLeg_HipSHJnt
+    400016: Lion_l_FrontLeg_KneeSHJnt
+    400018: Lion_l_HindLeg_AnkleSHJnt
+    400020: Lion_l_HindLeg_BallSHJnt
+    400022: Lion_l_HindLeg_HipSHJnt
+    400024: Lion_l_HindLeg_Knee1SHJnt
+    400026: Lion_l_HindLeg_Knee2SHJnt
+    400028: Lion_LP
+    400030: Lion_Neck_01SHJnt
+    400032: Lion_Neck_02SHJnt
+    400034: Lion_Neck_TopSHJnt
+    400036: Lion_r_Clavicle_01_01SHJnt
+    400038: Lion_r_FrontLeg_AnkleSHJnt
+    400040: Lion_r_FrontLeg_BallSHJnt
+    400042: Lion_r_FrontLeg_HipSHJnt
+    400044: Lion_r_FrontLeg_KneeSHJnt
+    400046: Lion_r_HindLeg_AnkleSHJnt
+    400048: Lion_r_HindLeg_BallSHJnt
+    400050: Lion_r_HindLeg_HipSHJnt
+    400052: Lion_r_HindLeg_Knee1SHJnt
+    400054: Lion_r_HindLeg_Knee2SHJnt
+    400056: Lion_ROOTSHJnt
+    400058: Lion_SLP
+    400060: Lion_Spine_01SHJnt
+    400062: Lion_Spine_02SHJnt
+    400064: Lion_Spine_03SHJnt
+    400066: Lion_Spine_04SHJnt
+    400068: Lion_Spine_TopSHJnt
+    400070: Lion_Tail_01_01SHJnt
+    400072: Lion_Tail_01_02SHJnt
+    400074: Lion_Tail_01_03SHJnt
+    400076: Lion_Tail_01_04SHJnt
+    400078: Lion_Tail_01_05SHJnt
+    400080: RootMotion
+    4300000: Lion_HP
+    4300002: Lion_LP
+    4300004: Lion_SLP
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Lion_HP
+    13700002: Lion_LP
+    13700004: Lion_SLP
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
